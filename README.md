@@ -1,10 +1,10 @@
-## MacOs Automator Scripts
+# MacOs Automator Scripts
 
-### 1. GPT-3.5 Turbo Text Refactoring
-#### Overview
+## 1. GPT-3.5 Turbo Text Refactoring
+### Overview
 This Python script leverages the power of OpenAI's GPT-3.5 Turbo model to refactor and enhance text. It is particularly useful for correcting syntax errors, improving grammar, and enhancing readability of user-provided content.
 
-#### Features
+### Features
 **Command-Line Interface**: Easily integrate this script into your workflow using the command line.
 
 **API Key Configuration**: Use your own API KEY.
