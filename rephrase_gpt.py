@@ -3,7 +3,8 @@ import sys
 
 import requests
 
-API_KEY = "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"
+# input your api key
+API_KEY = "<api_key>"
 
 
 def get_user_content():
